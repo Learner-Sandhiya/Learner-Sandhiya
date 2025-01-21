@@ -1,5 +1,10 @@
 ## Hi there 👋 It's me SANDHIYA S
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/media/189931803af24fea969fe9d0b6631431.gif">
+🌱 I’m currently learning DSA
+- 📫 How to reach me :
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandhiya08/)
+
+
 
 <!--
 **Learner-Sandhiya/Learner-Sandhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
