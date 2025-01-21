@@ -1,5 +1,5 @@
 ## Hi there 👋 It's me Sandhiya
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Leaner-Sandhiya&label=Profile%20views&color=0e75b6&style=flat" alt="Leaner-Sandhiya" /> </p>
 Master Degree @Computer science-2024
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/media/189931803af24fea969fe9d0b6631431.gif">   
 
@@ -24,6 +24,8 @@ Master Degree @Computer science-2024
 ![sandhiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Learner-Sandhiya&theme=dark&show_icons=true&&hide=issues,contribs)
 
 <a href="https://www.hackerrank.com/sandhiyasenraya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandhiyasenraya1" height="30" width="40" /></a>
+
+
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
