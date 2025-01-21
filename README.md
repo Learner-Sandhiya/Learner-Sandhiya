@@ -22,14 +22,15 @@ Master Degree @Computer science-2024
 
 
 ![sandhiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Learner-Sandhiya&theme=dark&show_icons=true&&hide=issues,contribs)
+<br />
 
-<a href="https://www.hackerrank.com/sandhiyasenraya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandhiyasenraya1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sandhiyasenraya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandhiyasenraya1" height="30" width="200" /></a>
 
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sandhiya_s?theme=dark&font=Murecho&ext=contest)
 
-[![Sandhiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Learner-Sandhiya08&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
